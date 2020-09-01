@@ -13,7 +13,7 @@ Library to validate JSON Web Tokens.
   s.source           = { :git => 'https://github.com/okta/okta-ios-jwt.git', :tag => s.version.to_s }
   s.social_media_url = 'https://twitter.com/oktaDev'
 
-  s.ios.deployment_target = '9.0'
+  s.ios.deployment_target = '12.0'
 
   s.source_files = 'OktaJWT/**/*.{h,m,swift}'
 end
